@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F98E01F6-2B8E-4B34-B2D7-31A0801EDCAE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>App_Kelas_A.My.MyApplication</StartupObject>
+    <RootNamespace>App_Kelas_A</RootNamespace>
+    <AssemblyName>App_Kelas_A</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>App_Kelas_A.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>App_Kelas_A.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="alfathNET">
+      <HintPath>..\..\..\..\..\Downloads\lib Kelas A\alfathNET.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\Downloads\lib Kelas A\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Driver\Module_Diver.vb" />
+    <Compile Include="Master\Form_Barang.Designer.vb">
+      <DependentUpon>Form_Barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Form_Barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Form_Database.Designer.vb">
+      <DependentUpon>Form_Database.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Form_Database.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Form_Satuan.Designer.vb">
+      <DependentUpon>Form_Satuan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Form_Satuan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Form_Jenis.Designer.vb">
+      <DependentUpon>Form_Jenis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Form_Jenis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Master.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Master.Designer.vb">
+      <DependentUpon>Master.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\Form_Merek.Designer.vb">
+      <DependentUpon>Form_Merek.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\Form_Merek.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master_Input\Form_input_barang.Designer.vb">
+      <DependentUpon>Form_input_barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master_Input\Form_input_barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master_Input\Form_input_satuan.Designer.vb">
+      <DependentUpon>Form_input_satuan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master_Input\Form_input_satuan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master_Input\Form_input_merek.Designer.vb">
+      <DependentUpon>Form_input_merek.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master_Input\Form_input_merek.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master_Input\Form_input_jenis.Designer.vb">
+      <DependentUpon>Form_input_jenis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master_Input\Form_input_jenis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Transaksi\Form_input_penjualan.Designer.vb">
+      <DependentUpon>Form_input_penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaksi\Form_input_penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaksi\Form_penjualan.Designer.vb">
+      <DependentUpon>Form_penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaksi\Form_penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Data\Form_ViewJenis.Designer.vb">
+      <DependentUpon>Form_ViewJenis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View Data\Form_ViewJenis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Data\Form_ViewMerek.Designer.vb">
+      <DependentUpon>Form_ViewMerek.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View Data\Form_ViewMerek.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Data\Form_ViewSatuan.Designer.vb">
+      <DependentUpon>Form_ViewSatuan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View Data\Form_ViewSatuan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Master\Form_Barang.resx">
+      <DependentUpon>Form_Barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Form_Database.resx">
+      <DependentUpon>Form_Database.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Form_Satuan.resx">
+      <DependentUpon>Form_Satuan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Form_Jenis.resx">
+      <DependentUpon>Form_Jenis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Master.resx">
+      <DependentUpon>Master.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\Form_Merek.resx">
+      <DependentUpon>Form_Merek.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master_Input\Form_input_barang.resx">
+      <DependentUpon>Form_input_barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master_Input\Form_input_satuan.resx">
+      <DependentUpon>Form_input_satuan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master_Input\Form_input_merek.resx">
+      <DependentUpon>Form_input_merek.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master_Input\Form_input_jenis.resx">
+      <DependentUpon>Form_input_jenis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaksi\Form_input_penjualan.resx">
+      <DependentUpon>Form_input_penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaksi\Form_penjualan.resx">
+      <DependentUpon>Form_penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Data\Form_ViewJenis.resx">
+      <DependentUpon>Form_ViewJenis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Data\Form_ViewMerek.resx">
+      <DependentUpon>Form_ViewMerek.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Data\Form_ViewSatuan.resx">
+      <DependentUpon>Form_ViewSatuan.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

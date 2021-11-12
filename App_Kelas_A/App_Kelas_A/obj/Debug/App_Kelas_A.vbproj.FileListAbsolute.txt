@@ -1,0 +1,50 @@
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\bin\Debug\App_Kelas_A.exe.config
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.vbprojResolveAssemblyReference.cache
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_Database.resources
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Master.resources
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Resources.resources
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.vbproj.GenerateResource.Cache
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\bin\Debug\App_Kelas_A.exe
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\bin\Debug\App_Kelas_A.pdb
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\bin\Debug\App_Kelas_A.xml
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\bin\Debug\alfathNET.dll
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\bin\Debug\MySql.Data.dll
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.exe
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.xml
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.pdb
+c:\users\darkblue\documents\visual studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_Jenis.resources
+C:\Users\DarkBlue\Documents\Visual Studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_Satuan.resources
+C:\Users\DarkBlue\Documents\Visual Studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_Merek.resources
+C:\Users\DarkBlue\Documents\Visual Studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_input_jenis.resources
+C:\Users\DarkBlue\Documents\Visual Studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_input_merek.resources
+C:\Users\DarkBlue\Documents\Visual Studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_input_satuan.resources
+C:\Users\DarkBlue\Documents\Visual Studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_Barang.resources
+C:\Users\DarkBlue\Documents\Visual Studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_input_barang.resources
+C:\Users\DarkBlue\Documents\Visual Studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_ViewJenis.resources
+C:\Users\DarkBlue\Documents\Visual Studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_ViewMerek.resources
+C:\Users\DarkBlue\Documents\Visual Studio 2013\Projects\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_ViewSatuan.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\bin\Debug\App_Kelas_A.exe.config
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.exe
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.xml
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.pdb
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\bin\Debug\App_Kelas_A.exe
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\bin\Debug\App_Kelas_A.pdb
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\bin\Debug\App_Kelas_A.xml
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_Barang.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_Database.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_Satuan.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_Jenis.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Master.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_Merek.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_input_barang.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_input_satuan.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_input_merek.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_input_jenis.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Resources.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_input_penjualan.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_penjualan.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_ViewJenis.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_ViewMerek.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.Form_ViewSatuan.resources
+C:\Users\ASUS A412FJ\Documents\Visual Studio 2012\APP_KASIR_KELASA\App_Kelas_A (1)\App_Kelas_A\App_Kelas_A\obj\Debug\App_Kelas_A.vbproj.GenerateResource.Cache
